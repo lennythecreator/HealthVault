@@ -1,0 +1,12 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  height: auto;
+  background-color: #2BE168;
+}
+
+.home-container{
+  display: flex;
+  height: 100vh;
+}
